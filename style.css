@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.tio-banner{
+    background: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    padding: 30px;
+    overflow: hidden;
+}
+.contant-left{
+    width: 45%;
+    float: left;
+    overflow: hidden;
+}
+.contant-left h1{
+    font-size: 40px ;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.span-color{
+    color: orange;
+}
+.contant-left h3{
+    margin-bottom: 20px;
+}
+.contant-left P{
+    margin-bottom: 20px;
+}
+.contant-left a{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient( to right, #f1f2f6, #ff4757);
+    padding: 10px  10px; 
+    border-radius: 10px;
+    font-size: 20px;
+}
+.contant-right{
+    width: 45%;
+    float: right;
+    overflow: hidden;
+}
+.contant-profile{}
+.contant-profile img{
+    width: 100%;
+}
+.dream-bg{
+    background: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-right{
+    width: 45%;
+    float: left;
+    overflow: hidden;
+}
+.dream-right img{
+    width: 100%;
+}
+.dream-left{
+    width: 45%;
+    overflow: hidden;
+    float: right;
+}
+.dream-left h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.dream-left h3{
+    margin-bottom: 20px;
+}
+.dream-left p{
+    margin-bottom: 20px;
+}
+.dream-left a{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient( to right, #f1f2f6, #ff4757);
+    padding: 10px  10px; 
+    border-radius: 10px;
+    font-size: 20px;
+}
